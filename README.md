@@ -1,0 +1,2 @@
+# academix
+Test for lightricks
